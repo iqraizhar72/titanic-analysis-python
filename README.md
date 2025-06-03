@@ -15,7 +15,7 @@ This project explores the Titanic dataset using Python to perform comprehensive 
 |------------|--------------------------------------------------|
 | survived   | Whether the passenger survived (0 = No, 1 = Yes) |
 | pclass     | Ticket class (1 = 1st, 2 = 2nd, 3 = 3rd)         |
-| sex        | Gender of the passenger                         |
+| Gender     | Gender of the passenger                         |
 | age        | Age of the passenger                            |
 | sibsp      | No of siblings/spouses aboard                    |
 | parch      | No of parents/children aboard                    |
