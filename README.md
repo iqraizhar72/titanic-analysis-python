@@ -27,22 +27,22 @@ This project explores the Titanic dataset using Python to perform comprehensive 
 
 ## 🖼️ Plots & Visualizations
 
-The project includes various visualizations to explore and explain patterns, such as:
+The notebook includes several visualizations created using **Seaborn** and **Matplotlib**, such as:
 
-- Survival count by gender and class
-- Age distribution of survivors vs. non-survivors
-- Heatmaps showing correlation between numerical features
-- Countplots and barplots for categorical variables
-- Pie charts showing survival proportion
+- Countplot of overall survival counts  
+- Survival comparison by gender and passenger class  
+- Age distribution by survival status and gender using box plots  
+- Barplot of fare across passenger classes  
+- Countplots for family relationships (SibSp and Parch)
 
-> All plots are created using **Matplotlib** and **Seaborn**.
+> These plots help reveal key patterns and trends in the Titanic dataset.
 
 ## 📁 Project Structure
 
 ├── data/
-│ └── train.csv # Titanic dataset
-├── titanic-survival-analysis.ipynb # Main analysis notebook
-├── README.md # Project documentation
+│ └── train.csv    # Titanic dataset
+├── titanic-survival-analysis.ipynb    # Main analysis notebook
+├── README.md    # Project documentation
 
 
 ## 🛠️ Tools & Libraries
