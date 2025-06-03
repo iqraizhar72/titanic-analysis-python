@@ -17,8 +17,8 @@ This project explores the Titanic dataset using Python to perform comprehensive 
 | pclass     | Ticket class (1 = 1st, 2 = 2nd, 3 = 3rd)         |
 | sex        | Gender of the passenger                         |
 | age        | Age of the passenger                            |
-| sibsp      | # of siblings/spouses aboard                    |
-| parch      | # of parents/children aboard                    |
+| sibsp      | No of siblings/spouses aboard                    |
+| parch      | No of parents/children aboard                    |
 | fare       | Ticket fare                                     |
 | embarked   | Port of embarkation (C = Cherbourg, Q = Queenstown, S = Southampton) |
 | cabin      | Cabin number                                    |
@@ -63,4 +63,3 @@ The notebook includes several visualizations created using **Seaborn** and **Mat
 - 💻 [GitHub](https://github.com/iqraizhar72)  
 - 📧 iqraizhar72@gmail.com
 
----
