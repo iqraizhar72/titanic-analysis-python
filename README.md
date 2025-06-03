@@ -39,11 +39,11 @@ The notebook includes several visualizations created using **Seaborn** and **Mat
 
 ## 📁 Project Structure
 
+📦 titanic-analysis-python/
 ├── data/
-│ └── train.csv    # Titanic dataset
-├── titanic-survival-analysis.ipynb    # Main analysis notebook
-├── README.md    # Project documentation
-
+│ └── titanic.csv # Titanic dataset
+├── titanic-survival-analysis.ipynb # Main analysis notebook
+└── README.md # Project documentation
 
 ## 🛠️ Tools & Libraries
 
