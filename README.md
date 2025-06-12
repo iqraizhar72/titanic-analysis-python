@@ -63,3 +63,8 @@ The notebook includes several visualizations created using **Seaborn** and **Mat
 - 💻 [GitHub](https://github.com/iqraizhar72)  
 - 📧 iqraizhar72@gmail.com
 
+## 🙌 Feedback & Support
+
+Feel free to share suggestions or compliments — your feedback is appreciated!  
+If you found this project useful, please consider giving it a ⭐️.
+
